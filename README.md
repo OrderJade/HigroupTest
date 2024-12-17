@@ -2,7 +2,7 @@
 
 ### 拉取devcontainer.json 中的docker image
 
-### 在根据devcontainer 创建container 中配置好conda 环境，并且安装pytorch
+### 在根据devcontainer 创建container 中配置好conda 环境，并且安装pytorch-gpu
 
 ### 根据我们提供给你的对应的 branch 下的指定commit，完成该problem
 
