@@ -1,0 +1,9 @@
+{
+    // replace them as you need
+    "name": "test",
+    "image": "ubuntu:latest",
+    "runArgs": [
+        "--gpus=all",
+        "--network=host",
+        ],
+}
