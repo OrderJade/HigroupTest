@@ -6,4 +6,4 @@
 
 ### 根据我们提供给你的对应的 branch 下的指定commit，完成该problem
 
-### 将运行结果 以新branch 的形式提交，命名为 branch_xx (例如：branch_cjq)
+### 将运行结果 在面试的时候进行展示
